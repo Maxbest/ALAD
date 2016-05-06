@@ -124,7 +124,7 @@ public class HoldOutOnline extends AbstractEvaluationMethod {
 				setUnlabeledDataset(((AbstractSampling) getSamplingStrategy()).getUnlabeledData());
 
 			} // confirm if a training and test file were specified
-			else {
+			else {  
 
 				// A training dataset was specified
 				if (getTrainDataset() != null) {
