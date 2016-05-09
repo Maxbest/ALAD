@@ -1,0 +1,67 @@
+Fri May 06 10.01.58 CST 2016
+Dataset: kdd_cup_1999
+Test set size: 4941
+Initial Labelled set size: 489
+Initial Unlabelled set size: 488590
+Batch mode: QBestBatchMode
+Batch size: 1000
+Classifiers: NaiveBayes-1cores
+Scenario: StreamBasedOnlineSelectiveSamplingScenario
+Query strategy: RandomSelectionOnlineQueryStrategy-1cores
+Time begining: Fri May 06 10.01.58 CST 2016
+		
+Iteration: 1
+Labeled set size: 489
+Unlabelled set size: 488590
+	
+Mean region size: 4.34958598417832
+Incorrectly Classified Instances: 1.0119409026512851
+Correctly Classified Instances: 98.98805909734871
+Weighted Precision: 0.9873611895104323
+Weighted AreaUnderROC: 0.9958396975665996
+Root mean squared error: 0.029681200489211888
+Relative absolute error: 1.0652300041868015
+Root relative squared error: 14.554522375167618
+Weighted TruePositiveRate: 0.9898805909734871
+Weighted MatthewsCorrelation: 0.9860324645682342
+Weighted FMeasure: 0.987165772887317
+Iteration time: 38.0
+Weighted AreaUnderPRC: 0.9837665045829953
+Mean absolute error: 8.860136140683758E-4
+Coverage of cases: 98.98805909734871
+Instances selection time: 5.0
+Test time: 2227.0
+Accumulative iteration time: 38.0
+Weighted Recall: 0.9898805909734871
+Weighted FalsePositiveRate: 0.0022337026557305594
+Kappa statistic: 0.9827539146624186
+Training time: 33.0
+		
+Iteration: 2
+Labeled set size: 1489
+Unlabelled set size: 486545
+	
+Mean region size: 4.428616987349701
+Incorrectly Classified Instances: 3.471882640586797
+Correctly Classified Instances: 96.5281173594132
+Weighted Precision: 0.9935866597077894
+Weighted AreaUnderROC: 0.9995352479607359
+Root mean squared error: 0.053238791999587365
+Relative absolute error: 3.7097541343576723
+Root relative squared error: 26.106261762104417
+Weighted TruePositiveRate: 0.965281173594132
+Weighted MatthewsCorrelation: 0.972557411388539
+Weighted FMeasure: 0.9769396015120342
+Iteration time: 26.0
+Weighted AreaUnderPRC: 0.9958109968502588
+Mean absolute error: 0.003085617805514919
+Coverage of cases: 97.26161369193154
+Instances selection time: 1.0
+Test time: 613.0
+Accumulative iteration time: 64.0
+Weighted Recall: 0.965281173594132
+Weighted FalsePositiveRate: 2.933206228801945E-4
+Kappa statistic: 0.9419612342056769
+Training time: 25.0
+		
+Time end:Fri May 06 10.02.03 CST 2016

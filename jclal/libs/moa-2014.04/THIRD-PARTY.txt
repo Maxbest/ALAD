@@ -1,0 +1,8 @@
+
+Lists of 6 third-party dependencies.
+     (The Apache Software License, Version 2.0) java-diff-utils (com.googlecode.java-diff-utils:diffutils:1.2.1 - http://code.google.com/p/java-diff-utils/)
+     (GNU Lesser General Public License 3.0) SizeOf Agent (com.googlecode.sizeofag:sizeofag:1.0.0 - https://code.google.com/p/sizeofag/)
+     (Common Public License Version 1.0) JUnit (junit:junit:4.8.2 - http://junit.org)
+     (CUP Parser Generator Copyright Notice, License, and Disclaimer) Java CUP Parser Generator (net.sf.squirrel-sql.thirdparty-non-maven:java-cup:0.11a - http://www2.cs.tum.edu/projects/cup/)
+     (GNU General Public License 3) weka-dev (nz.ac.waikato.cms.weka:weka-dev:3.7.11 - http://www.cms.waikato.ac.nz/ml/weka/)
+     (GNU Lesser General Public License 2.1) Pentaho Package Manager (org.pentaho.pentaho-commons:pentaho-package-manager:1.0.8 - http://source.pentaho.org/svnroot/pentaho-commons/pentaho-package-manager/)
